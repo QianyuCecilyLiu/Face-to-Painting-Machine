@@ -1,5 +1,5 @@
 # Deep-Learning-Project
-This is the final project of deep learing course STAT479 in 2019 fall intructed by Prof. Sebastian Raschka. The institute is UW-Madison.
+This is the final project of deep learing course STAT479 in 2019 fall instructed by Prof. Sebastian Raschka. The institute is UW-Madison.
 
 ## Main work 
 We propose a face-to-painting machine, which can identify a person and then produce a portrait of him/her automatically based on a given painting style.
