@@ -16,13 +16,16 @@ keyword: Deep CNN architecture, Transfer learning, Triplet loss, Neural style tr
 **FaceNet system For the face verification** using FaceNet, we use Labeled Face in the Wild (LFW) dataset. It is a database of face photographs designed for studying the problem of unconstrained face recognition. The data set contains more than 13,000 images of faces collected from the web, for nearly 6000 people. Among of them, around 1700 people have two or more images
 
 ## Contributions 
-Cecily Liu (qliu273@wisc.edu) helped with the data collection and data pre-processing part. She implements the data augmentation and transfer learning. She also writes the introduction and motivation part for the project report.
+Cecily Liu (qliu273@wisc.edu) implements the transfer learning and FaceNet system for the face verification. She also scrapes the data on Google image search for the transfer learning, and implements the data augmentation and other pre-processing work. She writes the related work, proposed method, experiment, result and conclusion part of the project.
 
-Zhuoyan Xu (zxu444@wisc.edu) implements the transfer learning and FaceNet system for the face verification. He also scrapes the data on Google image search for the transfer learning, and implements the data augmentation and other pre-processing work. He writes the related work, proposed method, experiment, result and conclusion part of the project.
+Zhuoyan Xu (zxu444@wisc.edu) helped with the data collection and data pre-processing part. He implements the data augmentation and transfer learning. He also writes the introduction and motivation part for the project report.
 
 Lingfeng Zhu (lzhu88@wisc.edu) implements the neural style transfer and transfer learning, he writes the abstract part, result and conclusion part and related works part and comes up with the proposed method part in our project report.
 
 ## Acknowledgement
 We are glad to acknowledge Prof. Sebastian Raschka, without whose instruction we will not be able to establish and finish this project, let alone entering this interesting world of deep learning. Last but not least, we would like to acknowledge Overleaf and Github, they make cooperation more easier than ever.
+
+## Others
+This project has been mentioned in Prof.Sebastian Raschka's [blog](https://sebastianraschka.com/blog/2019/student-gallery-1.html). 
 
 
