@@ -11,7 +11,7 @@ Our project can be used in many real world applications, like generating tourist
 keyword: Deep CNN architecture, Transfer learning, Triplet loss, Neural style transfer
 
 ## Data 
-**Transfer Learning and Neural Style Transfer** We use icrawler 0.6.2 package to scrape images from Google Image Search by ourselves. We perform some pre-rpcessing to the images and split them into train and test samples. This database contains images of 15 celebrities like Gal Gadot, Robert Downey Jr etc. There are around 7500 images in total. This dataset is mainly used in the transfer learning part and the neural style transfer part.
+**Transfer Learning and Neural Style Transfer** We use icrawler 0.6.2 package to scrape images from Google Image Search by ourselves. We perform some pre-processing to the images and split them into train and test samples. This database contains images of 15 celebrities like Gal Gadot, Robert Downey Jr etc. There are around 7500 images in total. This dataset is mainly used in the transfer learning part and the neural style transfer part.
 
 **FaceNet system For the face verification** using FaceNet, we use Labeled Face in the Wild (LFW) dataset. It is a database of face photographs designed for studying the problem of unconstrained face recognition. The data set contains more than 13,000 images of faces collected from the web, for nearly 6000 people. Among of them, around 1700 people have two or more images
 
