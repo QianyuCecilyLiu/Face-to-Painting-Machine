@@ -26,6 +26,6 @@ Lingfeng Zhu (lzhu88@wisc.edu) implements the neural style transfer and transfer
 We are glad to acknowledge Prof. Sebastian Raschka, without whose instruction we will not be able to establish and finish this project, let alone entering this interesting world of deep learning. Last but not least, we would like to acknowledge Overleaf and Github, they make cooperation more easier than ever.
 
 ## Others
-This project has been mentioned in Prof.Sebastian Raschka's [blog](https://sebastianraschka.com/blog/2019/student-gallery-1.html). 
+This project has been honorly mentioned in Prof.Sebastian Raschka's [blog](https://sebastianraschka.com/blog/2019/student-gallery-1.html). 
 
 
